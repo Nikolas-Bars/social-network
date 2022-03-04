@@ -1,0 +1,68 @@
+.dialogs{
+
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 300px 500px;
+    border-bottom-right-radius: 20px;
+}
+
+
+
+.dialogsItems{
+    padding: 20px;
+}
+
+.dialogsItems .dialog{
+    font-family: "Yu Gothic UI Semilight";
+    border: 2px solid dimgray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+
+
+.messageRight{
+    text-align: right;
+    max-width: 200px;
+    font-family: "Yu Gothic UI Semilight";
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
+
+.messageLeft{
+    text-align: left;
+    max-width: 200px;
+    font-family: "Yu Gothic UI Semilight";
+    margin-top: 10px;
+    margin-bottom: 14px;
+
+
+}
+
+.dialogsImg img{
+    margin: 5px;
+    vertical-align:middle;
+    max-width: 60px;
+    border-radius: 30px;
+}
+
+.dialogsImg {
+    border-right: 2px solid gray;
+}
+
+.messageText{
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 12px;
+    background-color: lightgoldenrodyellow;
+    vertical-align:middle;
+}
+
+
+
+/*    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 7px;
+    background-color: lightgoldenrodyellow;*/
